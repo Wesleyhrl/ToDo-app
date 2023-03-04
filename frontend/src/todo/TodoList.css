@@ -1,0 +1,25 @@
+.TarefaOk {
+    text-decoration: line-through;
+    color: gray;
+}
+
+td.Actions Button {
+    font-size: 17px;
+    margin: 0 5px;
+}
+
+td.Actions {
+    text-align: center;
+}
+
+th.Actions {
+    width: 200px;
+    text-align: center;
+}
+.search{
+    padding: 5px;
+}
+.search input:focus {
+    box-shadow: none;
+    border: black solid 1px;
+}

@@ -1,0 +1,10 @@
+.form-cadastro {
+    margin-bottom: 20px;
+}
+.form-cadastro input:focus{
+    box-shadow: none;
+    border: black solid 1px;
+}
+.form-cadastro label{
+    font-weight: 500;
+}
